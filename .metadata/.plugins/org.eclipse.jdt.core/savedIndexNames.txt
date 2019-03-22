@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/ferhat/Desktop/JavaBeltreviev/java_exam_2 copy/.metadata/.plugins/org.eclipse.jdt.core

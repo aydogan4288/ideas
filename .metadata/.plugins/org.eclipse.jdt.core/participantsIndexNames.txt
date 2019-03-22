@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/ferhat/Desktop/JavaBeltreviev/java_exam_2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1176618021.index
+/javabeltexam/src/main/java
